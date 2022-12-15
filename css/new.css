@@ -1,0 +1,91 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: dodgerblue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a.button:link, a.button:visited {
+    border: 3px solid dodgerblue;
+    background-color: gray;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 30%; 
+}
+
+a.button:hover, a.button:active {
+    background-color: tomato;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.links, .list {
+    display: block;
+    margin-left: 42.3%;
+    width: 40%;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+span.background {
+    background-color: aliceblue;
+    color: dodgerblue;
+}
+
+ul.css {
+    margin-left: 30%;
+    margin-right: 30%
+}
+
+li.font-color {
+    color: tomato;
+}
+
+li.font-family {
+    font-family:'Courier New', Courier, monospace;
+}
+
+div.tableauPlaceholder {
+    margin: auto;
+}
+
+.position {
+    color: dodgerblue;
+    background-color: aliceblue;
+    padding: 0px 0;
+    position: absolute;
+}
+
+.one {
+    top: 200%;
+    left: 20%;
+}
+
+.two {
+    top: 205%;
+    left: 42.3%;
+}
+
+.three {
+    top: 195%;
+    right: 25%;
+}
