@@ -76,16 +76,16 @@ div.tableauPlaceholder {
 }
 
 .one {
-    top: 200%;
+    margin-top: -7%;
     left: 20%;
 }
 
 .two {
-    top: 205%;
+    margin-top: -5%;
     left: 42.3%;
 }
 
 .three {
-    top: 195%;
+    margin-top: -9%;
     right: 25%;
 }
